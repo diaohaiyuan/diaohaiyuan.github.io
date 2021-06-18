@@ -4,12 +4,26 @@
   <url>
     <loc>https://diaohaiyuan.github.io/2021/06/17/rocketmq%E4%BB%8B%E7%BB%8D/</loc>
     
-    <lastmod>2021-06-17</lastmod>
+    <lastmod>2021-06-18</lastmod>
     
   </url>
   
   <url>
     <loc>https://diaohaiyuan.github.io/2021/06/17/hello-world/</loc>
+    
+    <lastmod>2021-06-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-06-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/tags/index.html</loc>
     
     <lastmod>2021-06-17</lastmod>
     
@@ -18,19 +32,47 @@
 
   <url>
     <loc>https://diaohaiyuan.github.io/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <lastmod>2021-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://diaohaiyuan.github.io/tags/Hello-World/</loc>
+    <lastmod>2021-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://diaohaiyuan.github.io/tags/rocketmq/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <lastmod>2021-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
+    <lastmod>2021-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/categories/rocketmq/</loc>
+    <lastmod>2021-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/categories/rocketmq/hello/</loc>
+    <lastmod>2021-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
