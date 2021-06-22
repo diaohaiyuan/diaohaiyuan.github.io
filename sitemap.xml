@@ -123,27 +123,6 @@
   </url>
   
   <url>
-    <loc>https://diaohaiyuan.github.io/tags/idea/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diaohaiyuan.github.io/tags/%E6%A8%A1%E6%9D%BFTemplate/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diaohaiyuan.github.io/tags/velocity/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://diaohaiyuan.github.io/tags/linux/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
@@ -165,6 +144,27 @@
   </url>
   
   <url>
+    <loc>https://diaohaiyuan.github.io/tags/idea/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/tags/%E6%A8%A1%E6%9D%BFTemplate/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/tags/velocity/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://diaohaiyuan.github.io/tags/vue/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
@@ -173,13 +173,6 @@
   
   <url>
     <loc>https://diaohaiyuan.github.io/tags/xlsx/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diaohaiyuan.github.io/tags/%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -201,6 +194,13 @@
   
   <url>
     <loc>https://diaohaiyuan.github.io/tags/cpu/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diaohaiyuan.github.io/tags/%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -230,14 +230,14 @@
   </url>
   
   <url>
-    <loc>https://diaohaiyuan.github.io/categories/idea/</loc>
+    <loc>https://diaohaiyuan.github.io/categories/linux/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://diaohaiyuan.github.io/categories/linux/</loc>
+    <loc>https://diaohaiyuan.github.io/categories/idea/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
