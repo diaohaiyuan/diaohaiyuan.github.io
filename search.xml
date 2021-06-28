@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> PGSQL </category>
+          <category> pgsql </category>
           
       </categories>
       
@@ -22,7 +22,7 @@
             
             <tag> Oracle </tag>
             
-            <tag> PGSQL </tag>
+            <tag> pgsql </tag>
             
         </tags>
       
